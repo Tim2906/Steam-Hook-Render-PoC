@@ -2,22 +2,22 @@
 
 
 ## Features
-Ready to Inject
+* Ready to Inject
 
-Pattern Scan
+* Pattern Scan
 
-Steam Overlay PresentScene Hook (You can draw on top of games)
+* Steam Overlay PresentScene Hook (You can draw on top of games)
 
-Imgui Ready
+* Imgui Ready
 
 ## Usage
-Change the build type to x64 Release
+* Change the build type to x64 Release
 
-Goto Properties -> VC++ Directories -> Include Directories and add imgui folder
+* Goto Properties -> VC++ Directories -> Include Directories and add imgui folder
 
-Compile With Visual Studio
+* Compile With Visual Studio
 
-Use a DLL injector to inject the DLL
+* Use a DLL injector to inject the DLL
 
 
 
