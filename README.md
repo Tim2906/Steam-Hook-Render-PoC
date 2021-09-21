@@ -13,7 +13,7 @@
 ## Usage
 * Change the build type to x64 Release
 
-* Goto Properties -> VC++ Directories -> Include Directories and add imgui folder
+* Go to Properties -> VC++ Directories -> Include Directories and add imgui folder
 
 * Compile With Visual Studio
 
